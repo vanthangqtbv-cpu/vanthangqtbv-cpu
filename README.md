@@ -11,7 +11,7 @@
 ### 💡 About Me
 I combine **8+ years of real-world B2B operations & commercial product leadership** with hands-on **Applied AI, Computer Vision, and Full-Stack Mobile Engineering**. Instead of building isolated academic notebooks, I specialize in turning Machine Learning, Computer Vision (CNN / YOLO / Edge AI), and LLM Multi-Agent workflows into **production systems that automate business operations and generate measurable ROI**.
 
-* 🔭 **Current Focus:** Deep Learning & Computer Vision (`CNN`, `ResNet`, `MobileNet`, `YOLO`), Enterprise `RAG` Pipelines, and Autonomous Multi-Agent B2B Systems.
+* 🔭 **Current Focus:** Deep Learning & Computer Vision (`CNN`, `ResNet`, `MobileNetV2`, `YOLO`), Enterprise `RAG` Pipelines, and Autonomous Multi-Agent B2B Systems.
 * 📱 **Mobile & Edge AI:** Building pixel-perfect cross-platform iOS/Android applications with **Flutter & Dart** integrated with AI inference backends.
 * 🌏 **Work Availability:** Open to **Remote AI / Automation Engineering roles & B2B Consulting** (Singapore / APAC / Global time zones).
 
@@ -31,5 +31,6 @@ I combine **8+ years of real-world B2B operations & commercial product leadershi
    * [**01 — Hotel Booking Cancellation Prediction (ML vs. Deep MLP):**](https://github.com/vanthangqtbv-cpu/ai-engineering-portfolio/tree/main/01-hotel-booking-cancellation-ml) End-to-end feature engineering, target-leakage audit, and 12-model MLP tuning on `119,210` bookings (**`86.25%` Accuracy, `0.9333` ROC-AUC**).
    * [**02 — Convolutional Neural Network (CNN) Digit Recognition & Error Analysis:**](https://github.com/vanthangqtbv-cpu/ai-engineering-portfolio/tree/main/02-cnn-mnist-digit-recognition) 421K-parameter `Conv2D` + `MaxPooling2D` architecture achieving **`99.19%` unseen test accuracy** with visual confusion-matrix diagnostics.
    * [**03 — Modern CNN Architecture: Mini-ResNet with Skip Connections (`CIFAR-10`):**](https://github.com/vanthangqtbv-cpu/ai-engineering-portfolio/tree/main/03-modern-cnn-resnet-cifar10) Custom `Keras Functional API` residual network (`Add()` identity & $1\times 1$ projection shortcuts, `BatchNormalization`, `GlobalAveragePooling2D`) achieving a **90% parameter reduction (`45,450` params)** on 3-channel RGB images.
+   * [**04 — Transfer Learning & Data Augmentation with `MobileNetV2` (`CIFAR-10`):**](https://github.com/vanthangqtbv-cpu/ai-engineering-portfolio/tree/main/04-transfer-learning-mobilenetv2-cifar10) Frozen ImageNet `MobileNetV2` backbone + in-graph augmentation (`RandomFlip`, `RandomRotation`, `RandomZoom`), boosting unseen test accuracy from **`45.40%` to `76.50%` (+31.10%)** while training only **`12,810` parameters (`50.04 KB`)**.
 2. 📱 [**`Flutter-project3`**](https://github.com/vanthangqtbv-cpu/Flutter-project3) & [**`Flutter-project`**](https://github.com/vanthangqtbv-cpu/Flutter-project) — **Cross-Platform Mobile Application Engineering**
    * Modular Flutter UI/UX components, service booking flows, and mobile architecture foundations.
